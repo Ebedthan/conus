@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "PROJECT"
+title = "Laboratoire de Bioinformatique"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 # hero_media = "hero-academic.png"
@@ -17,12 +17,12 @@ title = "PROJECT"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
-  
+    color = "navy"
+
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
-  
+  #gradient_start = "#4bb4e3"
+  #gradient_end = "#2b94c3"
+
   # Background image.
   # image = ""  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
@@ -31,4 +31,4 @@ title = "PROJECT"
   text_color_light = true
 +++
 
-**Explorons les toxines des Cones de Cote d'Ivoire**
+**Nous appliquons la bioinformatique à l'étude et la compréhension des systèmes biologiques**
